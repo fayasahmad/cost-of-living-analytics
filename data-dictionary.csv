@@ -1,0 +1,9 @@
+Field Name,Data type,Description
+Rank,Integer,Classifying the countries based on highest to lowest Cost of living index
+Country,String,The name of the country
+Cost of Living Index,Float,A measure of the relative living cost of that particular country
+Rent Index,Float,A measure of the relative rent (accomodation) cost of that particular country
+Cost of Living Plus Rent Index,Float,A combined measure of the living cost and rent (accomodation) cost of that particular country 
+Groceries Index,Float,A measure of the relative grocery cost of that particular country
+Restaurant Price Index,Float,A measure of the prices in restaurant (dining) relative cost of that particular country
+Local Purchasing Power Index,Float,A measure of relative local residents purchasing power.
